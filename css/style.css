@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+    font-family:sans-serif;
+}
+header{
+    background-color:red;
+    text-align:center;
+}
+#middleBar{
+    background-color:black;
+    color:white;
+    font-size:30px;
+    text-align:center;
+}
+.bottomHalf{
+    background-color:white;
+}
+.navLink{
+    background-color:rgb(139, 139, 139);
+    text-align:center;
+}
+#equationInfo{
+    text-align:center;
+}
